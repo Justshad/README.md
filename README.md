@@ -16,7 +16,7 @@ As a developer deeply passionate about crafting intuitive web and mobile experie
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shadex-rapha%C3%ABl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="your-linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="your-twitter" height="30" width="40" /></a>
+<a href="https://www.justshade.site/" target="blank"><img align="center" src="https://www.justshade.site/icons/logo.svg" alt="your-twitter" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
